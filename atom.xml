@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>yuesc</name>
+  </author>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <id>http://yuesc.github.io/</id>
+  <link href="http://yuesc.github.io/" rel="alternate"/>
+  <link href="http://yuesc.github.io/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, yuesc</rights>
+  <subtitle>clam down mind,claim your dream</subtitle>
+  <title>yuesc's Blog</title>
+  <updated>2026-05-14T09:52:22.788Z</updated>
+  <entry>
+    <author>
+      <name>yuesc</name>
+    </author>
+    <category term="关于yuesc" scheme="http://yuesc.github.io/categories/%E5%85%B3%E4%BA%8Eyuesc/"/>
+    <category term="关于yuesc、个人简介" scheme="http://yuesc.github.io/tags/%E5%85%B3%E4%BA%8Eyuesc%E3%80%81%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B/"/>
+    <id>http://yuesc.github.io/2026/05/12/AboutMe/</id>
+    <link href="http://yuesc.github.io/2026/05/12/AboutMe/"/>
+    <published>2026-05-12T08:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>Hello！欢迎来到我的博客，自从大一接触了bilisheep（现某领域头部厂安全研究）开始，他就建议我尝试写一写blog，但是当时完全不懂什么是服务器，摸着新买的电脑打开dev cpp，后来虽然勉强学了些内容，但出于不论是心性还是其它的一些原因，不愿长期维护一个博客站。直]]>
+    </summary>
+    <title>关于yuesc</title>
+    <updated>2026-05-14T09:52:22.788Z</updated>
+  </entry>
+</feed>
